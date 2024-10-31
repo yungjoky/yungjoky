@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yungjoky</h1>
-- 🌱 I’m currently learning **C / C++**
+- 🌱 I’m currently learning <b> C / C++</b>
 
 - 📫 How to reach me **yungjoky@gmail.com**
 
