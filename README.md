@@ -43,6 +43,10 @@ If you're looking for someone who can build from the ground up and speak both de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yungjoky&theme=react&hide_border=false" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yungjoky&theme=react&hide_border=false&layout=compact" alt="Top Languages" />
+  <div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 </p>
 
 ---
