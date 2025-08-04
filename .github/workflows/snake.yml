@@ -3,7 +3,7 @@ name: Generate Snake Game from GitHub Contribution Grid
 on:
   schedule:
     - cron: "0 */12 * * *"  # every 12 hours
-  workflow_dispatch:        # allow manual trigger
+  workflow_dispatch:        # allow manual trigger.
 
 jobs:
   generate:
