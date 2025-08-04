@@ -1,2 +1,28 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.3.0
+name: Generate Snake Game from GitHub Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:        # allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user_name: yungjoky
+          outputs: |
+            ./snake/dark.svg?palette=github-dark&color_snake=blue
+            ./snake/light.svg?color_snake=#7845ab
+            ./snake/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
