@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yungjoky</h1>
-
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500" alt="animated-coding-gif"></p>
 
 ![](https://komarev.com/ghpvc/?username=yungjoky&color=447ff7&label=Visitor+Count)
