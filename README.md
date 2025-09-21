@@ -6,13 +6,9 @@
 
 # 💫 About Me:
 I'm a full-stack developer focused on building real, usable stuff that solves actual problems.<br>  
-Fluent in TypeScript, Next.js, Supabase, and Tailwind. I also work with C#, C++, and SQL when needed.<br>  
-I don’t just slap templates together—I design, build, debug, and deliver apps that perform and scale.<br><br>  
-Currently pushing myself deeper into systems programming (C/C++) while freelancing and polishing my portfolio.<br>  
-If you're looking for someone who can build from the ground up and speak both dev and human, I'm your guy.
+Fluent in TypeScript, Next.js, Supabase, and Tailwind. I also work with C#, C++, and SQL when needed.<br>    
 
 📫 Reach me: **yungjoky@gmail.com**  
-⚡ Food for thought: *Life’s essence lies in fleeting moments; it’s the small connections that truly shape our experience.*
 
 ---
 
